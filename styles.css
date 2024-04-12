@@ -1,0 +1,33 @@
+/* Custom CSS styles */
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Navigation menu styles */
+.navbar-brand {
+  font-weight: bold;
+}
+
+/* Form styles */
+.form-label {
+  font-weight: bold;
+}
+
+/* Button styles */
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+/* Table styles */
+.table th,
+.table td {
+  vertical-align: middle;
+}
